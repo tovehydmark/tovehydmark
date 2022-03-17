@@ -1,5 +1,6 @@
 # tovehydmark
 - I am Tove 👷
 - Front-end development student 📝
-- Currently located in London, UK 🌐
+- Located in London, UK 🌐
+- Currently learning React 😄
 - Fashinated by all the unbelievable creations and inventions of the humankind 🏗️
