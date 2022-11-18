@@ -1,8 +1,8 @@
 # tovehydmark
 - I am Tove 👷
 - Front-end development student 📝
-- Located in London, UK 🌐
-- Currently learning Next.js and Node.js😄
+- Currently located in London, UK 🌐
+- Web dev intern at Hive and Five förnyelsebyrå 🤩
 - Fashinated by all the unbelievable creations and inventions of the humankind 🏗️
 
 
