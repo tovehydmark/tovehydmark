@@ -9,7 +9,7 @@
 
 <h2>📈 Stats and skills</h2>
 
-<div align="center">
+<div>
   <a href="https://github.com/tovehydmark">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovehydmark&langs_count=3&theme=github_dark" />
   </a>
