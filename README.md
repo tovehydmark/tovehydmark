@@ -3,4 +3,4 @@
 - Front-end developer 📝
 - Currently located in London, UK 🌐
 - Fashinated by all the unbelievable creations and inventions of the humankind 🏗️
-- Visit my CV site at [https://tovehydmark.netlify.app/](https://tovehydmark.dev/)
+- Visit my CV site at https://tovehydmark.dev/
