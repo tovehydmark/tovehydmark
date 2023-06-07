@@ -1,7 +1,6 @@
 # tovehydmark
 - I am Tove 👷
-- Front-end development student 📝
+- Front-end developer 📝
 - Currently located in London, UK 🌐
-- Web dev intern at Hive and Five förnyelsebyrå 🤩
 - Fashinated by all the unbelievable creations and inventions of the humankind 🏗️
-- Visit my CV site at https://tovehydmark.netlify.app/
+- Visit my CV site at [https://tovehydmark.netlify.app/](https://tovehydmark.dev/)
